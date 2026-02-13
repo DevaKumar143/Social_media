@@ -1,12 +1,1 @@
-# Backend
-backend/node_modules/
-backend/.env
 
-# Frontend
-fronted/node_modules/
-fronted/.env
-
-# Optional
-.DS_Store
-dist/
-build/
